@@ -1,8 +1,8 @@
 #API Key
-api_key
+config.py
 
 #git.ignore
-.gitignore
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
