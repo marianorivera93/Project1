@@ -1,3 +1,7 @@
+#large files
+speed-camera-violations.csv
+Traffic_Crashes_-_Crashes.csv
+
 #API Key
 config.py
 
