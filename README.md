@@ -5,3 +5,9 @@ For this group project, our group (Mariano Rivera, Kendall McCroy, Daniel Kogel)
 Once cleaned up, we applied the information from the data-cleanup to perform a regression analysis. 
 
 Tool and programming languages used were: Python, Pandas, Jupyter Notebook.
+
+Files included:
+- Data Clean-Up 
+- Data Analysis
+- Output Data
+- Data Files
